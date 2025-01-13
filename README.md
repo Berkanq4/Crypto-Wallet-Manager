@@ -111,6 +111,7 @@ Response:
 
 
 3. Update the userId balance if necessary:
+   
    redis-cli
    set wallet:user123 '{"userId":"user123","publicKey":"PUB-somekey","privateKey":"PRIV-somekey","balance":100,"transactions":[]}'
 
