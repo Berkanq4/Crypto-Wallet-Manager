@@ -32,7 +32,7 @@ A Node.js backend system for managing crypto wallets and monitoring transactions
 1. Setup
 Clone the repository:
 
-   git clone https://github.com/Berkanq4/crypto_wallet_management_backend.git
+   git clone https://github.com/Berkanq4/Crypto-Wallet-Manager.git
    cd crypto_wallet
 
 
