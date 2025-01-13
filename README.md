@@ -86,6 +86,7 @@ Response:
    "transactions": []
    }
 
+![DD210C4E-91A9-4706-9C0F-8C7D37666D26](https://github.com/user-attachments/assets/22982b7c-2bb7-40a9-beab-b3cf2033852a)
 
 2. Get Wallet Details
 GET /wallet/:userId
@@ -99,6 +100,15 @@ Response:
    "balance": 0,
    "transactions": []
    }
+
+![A85A1813-11E8-48F4-B17B-4C3584BD865E_1_105_c](https://github.com/user-attachments/assets/663de948-6ad9-4146-9c70-38b691129796)
+
+![ECCE13E8-1029-4CD2-AE3E-D7356A6C2C17_1_105_c](https://github.com/user-attachments/assets/1f0ce493-1213-4079-b68b-b57447bff35c)
+
+
+![3E3C480C-D54F-4CF1-81A1-366513BFF987_1_105_c](https://github.com/user-attachments/assets/e91ad490-317e-425c-925d-b9b746e6d0b2)
+
+
 
 3. Update the userId balance if necessary:
    redis-cli
@@ -125,6 +135,9 @@ On Failure:
    {
    "error": "Transaction failed or invalid"
    }
+
+![5AAE20CA-69A3-4F26-8867-DBC89A76FDDF](https://github.com/user-attachments/assets/5204e89c-ca18-4817-8e11-960712b85dfe)
+
 
 5. Testing the Code
 Run Unit Tests
