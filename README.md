@@ -33,10 +33,11 @@ A Node.js backend system for managing crypto wallets and monitoring transactions
 Clone the repository:
 
    git clone https://github.com/Berkanq4/Crypto-Wallet-Manager.git
+   
    cd crypto_wallet
 
 
-2. Start Redis
+3. Start Redis
 Make sure Redis is running:
    redis-server
 
