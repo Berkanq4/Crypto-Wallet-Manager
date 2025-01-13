@@ -147,3 +147,4 @@ Example log for a high-value transaction:
 
 # crypto_wallet_management_backend
 # crypto_wallet_management_backend
+# Crypto-Wallet-Manager
