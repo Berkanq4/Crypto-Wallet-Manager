@@ -39,9 +39,11 @@ Clone the repository:
 
 3. Start Redis
 Make sure Redis is running:
+
    redis-server
 
 To verify Redis is working:
+
    redis-cli ping
 
 Expected response:
@@ -49,6 +51,7 @@ Expected response:
 
 
 3. Install dependencies:
+   
    npm install
    npm install --save-dev jest
    npm install axios
@@ -56,8 +59,9 @@ Expected response:
    npm install --save-dev ioredis-mock
   
  
-4. Start the Application
+5. Start the Application
 Start the server:
+
    npm start
 
 The server will start on http://localhost:3000.
